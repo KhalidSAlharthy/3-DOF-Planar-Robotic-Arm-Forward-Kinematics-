@@ -2,9 +2,9 @@
 ## Description
 
 The robotic arm consists of:
-- **3 links (L1, L2, L3)
-- **3 revolute joints** (servo motors)
-- Operates in a **2D plane (X-Y)**
+- 3 links (L1, L2, L3)
+- 3 revolute joints (servo motors)
+- Operates in a 2D plane (X-Y)
 
 The purpose of this project is to calculate the end-effector's position and orientation given joint angles.
 
